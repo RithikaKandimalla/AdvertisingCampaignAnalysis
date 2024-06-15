@@ -1,1 +1,6 @@
-# AdvertisingCampaignAnalysis
+# Advertising Campaign Analysis
+ 
+ 
+My project focused on analyzing the effectiveness of a retargeting campaign for customers who showed initial interest but did not make a purchase. Utilizing a range of data analysis skills, including statistical testing, data matching, and regression analysis with R programming, I sought to understand the impact of retargeting efforts on customer behavior. The analysis involved chi-squared tests to evaluate the distribution between control and test groups, linear regression to measure the campaign's impact, and ANOVA tests to ensure statistical relevance. Additionally, I refined datasets by removing unmatchable records and conducted cross-tabulations to gain insights across different regions, providing a comprehensive evaluation of the campaign's effectiveness.
+
+Converting already interested customers is often more cost-effective than acquiring new ones. By thoroughly analyzing customer behavior and identifying factors influencing their purchasing decisions, I aimed to provide actionable insights for optimizing sales strategies. The results indicated a statistically significant impact of the retargeting campaign on customer purchases, highlighting areas for targeted improvements. This project not only enhanced my data analysis skills but also offered valuable recommendations for future advertising efforts, ensuring better resource allocation and improved campaign efficiency.
